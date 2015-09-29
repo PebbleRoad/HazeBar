@@ -1,0 +1,3 @@
+## HazeBar
+
+![Screenshot](screenshot.png)
