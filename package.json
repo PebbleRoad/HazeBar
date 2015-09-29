@@ -1,0 +1,23 @@
+{
+  "name": "menubarapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node devServer.js",
+    "build": "electron-packager ./ HazeBar --platform=darwin --arch=x64 --version=0.33.3 --overwrite",
+    "dmg": "rm -rf HazeBar.dmg; appdmg ./appdmg.json ./HazeBar.dmg"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "menubar": "^2.2.1"
+  },
+  "devDependencies": {
+    "appdmg": "^0.3.4",
+    "electron-packager": "^5.1.0",
+    "electron-rpc": "^1.0.3",
+    "react": "^0.13.3"
+  }
+}

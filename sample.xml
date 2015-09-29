@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+   <title>PSI Update</title>
+   <source>Airviro</source>
+   <item>
+      <region>
+         <id>rNO</id>
+         <latitude>1.41803</latitude>
+         <longitude>103.82000</longitude>
+         <record timestamp="20150929140000">
+            <reading type="NPSI" value="178" />
+            <reading type="NPSI_PM25_3HR" value="235" />
+            <reading type="NO2_1HR_MAX" value="22" />
+            <reading type="PM10_24HR" value="177" />
+            <reading type="PM25_24HR" value="130" />
+            <reading type="SO2_24HR" value="7" />
+            <reading type="CO_8HR_MAX" value="2.98" />
+            <reading type="O3_8HR_MAX" value="38" />
+            <reading type="NPSI_CO" value="30" />
+            <reading type="NPSI_O3" value="16" />
+            <reading type="NPSI_PM10" value="114" />
+            <reading type="NPSI_PM25" value="178" />
+            <reading type="NPSI_SO2" value="4" />
+         </record>
+      </region>
+      <region>
+         <id>NRS</id>
+         <latitude>0</latitude>
+         <longitude>0</longitude>
+         <record timestamp="20150929140000">
+            <reading type="NPSI" value="212" />
+            <reading type="NPSI_PM25_3HR" value="250" />
+            <reading type="NO2_1HR_MAX" value="22" />
+            <reading type="PM10_24HR" value="185" />
+            <reading type="PM25_24HR" value="161" />
+            <reading type="SO2_24HR" value="30" />
+            <reading type="CO_8HR_MAX" value="3.05" />
+            <reading type="O3_8HR_MAX" value="40" />
+            <reading type="NPSI_CO" value="30" />
+            <reading type="NPSI_O3" value="17" />
+            <reading type="NPSI_PM10" value="118" />
+            <reading type="NPSI_PM25" value="212" />
+            <reading type="NPSI_SO2" value="19" />
+         </record>
+      </region>
+      <region>
+         <id>rCE</id>
+         <latitude>1.35735</latitude>
+         <longitude>103.82000</longitude>
+         <record timestamp="20150929140000">
+            <reading type="NPSI" value="170" />
+            <reading type="NPSI_PM25_3HR" value="233" />
+            <reading type="NO2_1HR_MAX" value="21" />
+            <reading type="PM10_24HR" value="159" />
+            <reading type="PM25_24HR" value="122" />
+            <reading type="SO2_24HR" value="26" />
+            <reading type="CO_8HR_MAX" value="2.76" />
+            <reading type="O3_8HR_MAX" value="40" />
+            <reading type="NPSI_CO" value="28" />
+            <reading type="NPSI_O3" value="17" />
+            <reading type="NPSI_PM10" value="105" />
+            <reading type="NPSI_PM25" value="170" />
+            <reading type="NPSI_SO2" value="16" />
+         </record>
+      </region>
+      <region>
+         <id>rEA</id>
+         <latitude>1.35735</latitude>
+         <longitude>103.94000</longitude>
+         <record timestamp="20150929140000">
+            <reading type="NPSI" value="193" />
+            <reading type="NPSI_PM25_3HR" value="278" />
+            <reading type="NO2_1HR_MAX" value="7" />
+            <reading type="PM10_24HR" value="159" />
+            <reading type="PM25_24HR" value="144" />
+            <reading type="SO2_24HR" value="14" />
+            <reading type="CO_8HR_MAX" value="3.05" />
+            <reading type="O3_8HR_MAX" value="38" />
+            <reading type="NPSI_CO" value="30" />
+            <reading type="NPSI_O3" value="16" />
+            <reading type="NPSI_PM10" value="105" />
+            <reading type="NPSI_PM25" value="193" />
+            <reading type="NPSI_SO2" value="9" />
+         </record>
+      </region>
+      <region>
+         <id>rWE</id>
+         <latitude>1.35735</latitude>
+         <longitude>103.70000</longitude>
+         <record timestamp="20150929140000">
+            <reading type="NPSI" value="212" />
+            <reading type="NPSI_PM25_3HR" value="246" />
+            <reading type="NO2_1HR_MAX" value="7" />
+            <reading type="PM10_24HR" value="185" />
+            <reading type="PM25_24HR" value="161" />
+            <reading type="SO2_24HR" value="21" />
+            <reading type="CO_8HR_MAX" value="2.28" />
+            <reading type="O3_8HR_MAX" value="34" />
+            <reading type="NPSI_CO" value="23" />
+            <reading type="NPSI_O3" value="14" />
+            <reading type="NPSI_PM10" value="118" />
+            <reading type="NPSI_PM25" value="212" />
+            <reading type="NPSI_SO2" value="13" />
+         </record>
+      </region>
+      <region>
+         <id>rSO</id>
+         <latitude>1.29587</latitude>
+         <longitude>103.82000</longitude>
+         <record timestamp="20150929140000">
+            <reading type="NPSI" value="207" />
+            <reading type="NPSI_PM25_3HR" value="258" />
+            <reading type="NO2_1HR_MAX" value="20" />
+            <reading type="PM10_24HR" value="178" />
+            <reading type="PM25_24HR" value="156" />
+            <reading type="SO2_24HR" value="30" />
+            <reading type="CO_8HR_MAX" value="2.45" />
+            <reading type="O3_8HR_MAX" value="34" />
+            <reading type="NPSI_CO" value="25" />
+            <reading type="NPSI_O3" value="15" />
+            <reading type="NPSI_PM10" value="114" />
+            <reading type="NPSI_PM25" value="207" />
+            <reading type="NPSI_SO2" value="19" />
+         </record>
+      </region>
+   </item>
+</channel>
